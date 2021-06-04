@@ -5,3 +5,5 @@
 4. VLC
 5. OBS
 6. MAVEN
+
+(c) Sophie Wiedemann
